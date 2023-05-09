@@ -1,0 +1,81 @@
+
+port: 7890
+socks-port: 7891
+redir-port: 7892
+mixed-port: 7893
+mode: rule
+log-level: silent
+allow-lan: true
+external-controller: 0.0.0.0:9090
+bind-address: "*"
+ipv6: false
+dns:
+  enable: true
+  ipv6: false
+  enhanced-mode: redir-host
+  listen: 0.0.0.0:7894
+  fallback-filter:
+    geoip: false
+    ipcidr:
+    - 240.0.0.0/4
+  nameserver:
+    - https://puredns.org/dns-query
+    - tls://puredns.org:853
+  fallback:
+    - tcp://108.137.44.39
+    - tcp://108.137.44.9
+    - 108.137.44.39
+    - 108.137.44.9
+tun:
+  enable: true
+  stack: system 
+  macOS-auto-route: true
+  macOS-auto-detect-interface: true
+  dns-hijack:
+    - tcp://108.137.44.39:53
+experimental:
+  interface-name: en0
+
+proxies:
+  - {name: 230504hun1, server: 5.181.77.240, port: 10000, type: vmess, uuid: eca84d70-ea96-11ed-8d3d-e3f4cebbf8ad, sni: , alterId: 0, cipher: auto, tls: , skip-cert-verify: true, udp: true, network: ws, ws-opts: {path: /vpnjantit, headers: {Host: }}}
+  - {name: 20230505can2, server: 192.99.247.52, port: 10001, type: vmess, uuid: 7ab642f8-eb18-11ed-b3a3-efeaa0c7ac70, sni: , alterId: 0, cipher: auto, tls: 1, skip-cert-verify: true, udp: true, network: ws, ws-opts: {path: /vpnjantit, headers: {Host: }}}
+  - {name: 20230505can2 25, server: 192.99.247.52, port: 10000, type: vmess, uuid: 7ab642f8-eb18-11ed-b3a3-efeaa0c7ac70, sni: , alterId: 0, cipher: auto, tls: , skip-cert-verify: true, udp: true, network: ws, ws-opts: {path: /vpnjantit, headers: {Host: }}}
+  - {name: 230418bulg1, server: 195.123.227.30, port: 10000, type: vmess, uuid: c522b43c-dde1-11ed-ad06-479a946d072b, sni: , alterId: 0, cipher: auto, tls: , skip-cert-verify: true, udp: true, network: ws, ws-opts: {path: /vpnjantit, headers: {Host: }}}
+  - {name: 230504hun1 98, server: 5.181.77.240, port: 10001, type: vmess, uuid: eca84d70-ea96-11ed-8d3d-e3f4cebbf8ad, sni: , alterId: 0, cipher: auto, tls: 1, skip-cert-verify: true, udp: true, network: ws, ws-opts: {path: /vpnjantit, headers: {Host: }}}
+  - {name: 230505hung1, server: 5.181.77.240, port: 10001, type: vmess, uuid: e2a4e8f2-eb3a-11ed-8d9b-2fe632160fe5, sni: , alterId: 0, cipher: auto, tls: 1, skip-cert-verify: true, udp: true, network: ws, ws-opts: {path: /vpnjantit, headers: {Host: }}}
+  - {name: 230508neth2, server: 195.123.219.71, port: 10001, type: vmess, uuid: 279d9f48-ed53-11ed-bee7-f38636ac33ac, sni: , alterId: 0, cipher: auto, tls: 1, skip-cert-verify: true, udp: true, network: ws, ws-opts: {path: /vpnjantit, headers: {Host: }}}
+  - {name: 230508neth2 54, server: 195.123.219.71, port: 10000, type: vmess, uuid: 279d9f48-ed53-11ed-bee7-f38636ac33ac, sni: , alterId: 0, cipher: auto, tls: , skip-cert-verify: true, udp: true, network: ws, ws-opts: {path: /vpnjantit, headers: {Host: }}}
+  - {name: 230505hung1 15, server: 5.181.77.240, port: 10000, type: vmess, uuid: e2a4e8f2-eb3a-11ed-8d9b-2fe632160fe5, sni: , alterId: 0, cipher: auto, tls: , skip-cert-verify: true, udp: true, network: ws, ws-opts: {path: /vpnjantit, headers: {Host: }}}
+  - {name: 230506aus1, server: 139.99.133.82, port: 10001, type: vmess, uuid: 53c62aec-ebc1-11ed-8272-2783771f9ee5, sni: , alterId: 0, cipher: auto, tls: 1, skip-cert-verify: true, udp: true, network: ws, ws-opts: {path: /vpnjantit, headers: {Host: }}}
+  - {name: 230505uk2, server: 194.146.49.166, port: 10000, type: vmess, uuid: 7df0c7f0-eb62-11ed-af63-00163e7a9696, sni: , alterId: 0, cipher: auto, tls: , skip-cert-verify: true, udp: true, network: ws, ws-opts: {path: /vpnjantit, headers: {Host: }}}
+  - {name: 230506aus1 87, server: 139.99.133.82, port: 10000, type: vmess, uuid: 53c62aec-ebc1-11ed-8272-2783771f9ee5, sni: , alterId: 0, cipher: auto, tls: , skip-cert-verify: true, udp: true, network: ws, ws-opts: {path: /vpnjantit, headers: {Host: }}}
+  - {name: 230508phi, server: 49.157.28.247, port: 10001, type: vmess, uuid: a285ddb0-edcb-11ed-a7d9-f3b7f4db577d, sni: , alterId: 0, cipher: auto, tls: 1, skip-cert-verify: true, udp: true, network: ws, ws-opts: {path: /vpnjantit, headers: {Host: }}}
+  - {name: 230508phi 89, server: 49.157.28.247, port: 10000, type: vmess, uuid: a285ddb0-edcb-11ed-a7d9-f3b7f4db577d, sni: , alterId: 0, cipher: auto, tls: , skip-cert-verify: true, udp: true, network: ws, ws-opts: {path: /vpnjantit, headers: {Host: }}}
+  - {name: 230508bulg3, server: 195.123.228.18, port: 10001, type: vmess, uuid: ecc69a9a-edcb-11ed-8bb0-bf3951fe24e7, sni: , alterId: 0, cipher: auto, tls: 1, skip-cert-verify: true, udp: true, network: ws, ws-opts: {path: /vpnjantit, headers: {Host: }}}
+  - {name: 230508bulg3 47, server: 195.123.228.18, port: 10000, type: vmess, uuid: ecc69a9a-edcb-11ed-8bb0-bf3951fe24e7, sni: , alterId: 0, cipher: auto, tls: , skip-cert-verify: true, udp: true, network: ws, ws-opts: {path: /vpnjantit, headers: {Host: }}}
+
+proxy-groups:
+  - name: sshkit-generator
+    type: url-test
+    url: 'http://www.gstatic.com/generate_204'
+    interval: 300
+    proxies:
+      - 230504hun1
+      - 20230505can2
+      - 20230505can2 25
+      - 230418bulg1
+      - 230504hun1 98
+      - 230505hung1
+      - 230508neth2
+      - 230508neth2 54
+      - 230505hung1 15
+      - 230506aus1
+      - 230505uk2
+      - 230506aus1 87
+      - 230508phi
+      - 230508phi 89
+      - 230508bulg3
+      - 230508bulg3 47
+
+rules:
+ - MATCH,sshkit-generator
