@@ -1,4 +1,42 @@
-https://api.dler.io/sub?target=clash&url=vmess%3A%2F%2Few0KICAidiI6ICIyIiwNCiAgInBzIjogIjIwMjMwNTA1Y2FuMiIsDQogICJhZGQiOiAiMTkyLjk5LjI0Ny41MiIsDQogICJwb3J0IjogIjEwMDAxIiwNCiAgImlkIjogIjdhYjY0MmY4LWViMTgtMTFlZC1iM2EzLWVmZWFhMGM3YWM3MCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL3ZwbmphbnRpdCIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJzb2Z0OTguaXIiLA0KICAiYWxwbiI6ICJoMixodHRwLzEuMSIsDQogICJmcCI6ICJjaHJvbWUiDQp9%7Cvmess%3A%2F%2Few0KICAidiI6ICIyIiwNCiAgInBzIjogIjIzMDUwNWh1bmcxIiwNCiAgImFkZCI6ICI1LjE4MS43Ny4yNDAiLA0KICAicG9ydCI6ICIxMDAwMSIsDQogICJpZCI6ICJlMmE0ZThmMi1lYjNhLTExZWQtOGQ5Yi0yZmU2MzIxNjBmZTUiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi92cG5qYW50aXQiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAic29mdDk4LmlyIiwNCiAgImFscG4iOiAiaDIsaHR0cC8xLjEiLA0KICAiZnAiOiAiY2hyb21lIg0KfQ%3D%3D%7Cvmess%3A%2F%2Few0KICAidiI6ICIyIiwNCiAgInBzIjogIjIzMDUwNXVrMiIsDQogICJhZGQiOiAiMTk0LjE0Ni40OS4xNjYiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiN2RmMGM3ZjAtZWI2Mi0xMWVkLWFmNjMtMDAxNjNlN2E5Njk2IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvdnBuamFudGl0IiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogInNvZnQ5OC5pciIsDQogICJhbHBuIjogImgyLGh0dHAvMS4xIiwNCiAgImZwIjogImNocm9tZSINCn0%3D%7Cvmess%3A%2F%2Few0KICAidiI6ICIyIiwNCiAgInBzIjogIjIzMDUwOGJ1bGczIiwNCiAgImFkZCI6ICIxOTUuMTIzLjIyOC4xOCIsDQogICJwb3J0IjogIjEwMDAxIiwNCiAgImlkIjogImVjYzY5YTlhLWVkY2ItMTFlZC04YmIwLWJmMzk1MWZlMjRlNyIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL3ZwbmphbnRpdCIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJzb2Z0OTguaXIiLA0KICAiYWxwbiI6ICJoMixodHRwLzEuMSIsDQogICJmcCI6ICJjaHJvbWUiDQp9%7Cvmess%3A%2F%2Few0KICAidiI6ICIyIiwNCiAgInBzIjogIjIzMDQxOGJ1bGcxIiwNCiAgImFkZCI6ICIxOTUuMTIzLjIyNy4zMCIsDQogICJwb3J0IjogIjEwMDAwIiwNCiAgImlkIjogImM1MjJiNDNjLWRkZTEtMTFlZC1hZDA2LTQ3OWE5NDZkMDcyYiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL3ZwbmphbnRpdCIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ%3D%3D%7Cvmess%3A%2F%2Few0KICAidiI6ICIyIiwNCiAgInBzIjogIjIzMDUwNXVrMiIsDQogICJhZGQiOiAiMTk0LjE0Ni40OS4xNjYiLA0KICAicG9ydCI6ICIxMDAwMCIsDQogICJpZCI6ICI3ZGYwYzdmMC1lYjYyLTExZWQtYWY2My0wMDE2M2U3YTk2OTYiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi92cG5qYW50aXQiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0%3D%7Cvmess%3A%2F%2Few0KICAidiI6ICIyIiwNCiAgInBzIjogIjIzMDUwNWh1bmcxIiwNCiAgImFkZCI6ICI1LjE4MS43Ny4yNDAiLA0KICAicG9ydCI6ICIxMDAwMCIsDQogICJpZCI6ICJlMmE0ZThmMi1lYjNhLTExZWQtOGQ5Yi0yZmU2MzIxNjBmZTUiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi92cG5qYW50aXQiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0%3D%7Cvmess%3A%2F%2Few0KICAidiI6ICIyIiwNCiAgInBzIjogIjIzMDUwNmF1czEiLA0KICAiYWRkIjogIjEzOS45OS4xMzMuODIiLA0KICAicG9ydCI6ICIxMDAwMCIsDQogICJpZCI6ICI1M2M2MmFlYy1lYmMxLTExZWQtODI3Mi0yNzgzNzcxZjllZTUiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi92cG5qYW50aXQiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0%3D%7Cvmess%3A%2F%2Few0KICAidiI6ICIyIiwNCiAgInBzIjogIjIzMDUwOG5ldGgyIiwNCiAgImFkZCI6ICIxOTUuMTIzLjIxOS43MSIsDQogICJwb3J0IjogIjEwMDAwIiwNCiAgImlkIjogIjI3OWQ5ZjQ4LWVkNTMtMTFlZC1iZWU3LWYzODYzNmFjMzNhYyIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL3ZwbmphbnRpdCIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ%3D%3D%7Cvmess%3A%2F%2Few0KICAidiI6ICIyIiwNCiAgInBzIjogIjIzMDUwNGh1bjEiLA0KICAiYWRkIjogIjUuMTgxLjc3LjI0MCIsDQogICJwb3J0IjogIjEwMDAxIiwNCiAgImlkIjogImVjYTg0ZDcwLWVhOTYtMTFlZC04ZDNkLWUzZjRjZWJiZjhhZCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL3ZwbmphbnRpdCIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJzb2Z0OTguaXIiLA0KICAiYWxwbiI6ICJodHRwLzEuMSIsDQogICJmcCI6ICJjaHJvbWUiDQp9%7Cvmess%3A%2F%2Few0KICAidiI6ICIyIiwNCiAgInBzIjogIjIwMjMwNTA1Y2FuMiIsDQogICJhZGQiOiAiMTkyLjk5LjI0Ny41MiIsDQogICJwb3J0IjogIjEwMDAwIiwNCiAgImlkIjogIjdhYjY0MmY4LWViMTgtMTFlZC1iM2EzLWVmZWFhMGM3YWM3MCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL3ZwbmphbnRpdCIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ%3D%3D%7Cvmess%3A%2F%2Few0KICAidiI6ICIyIiwNCiAgInBzIjogIjIzMDUwNmF1czEiLA0KICAiYWRkIjogIjEzOS45OS4xMzMuODIiLA0KICAicG9ydCI6ICIxMDAwMSIsDQogICJpZCI6ICI1M2M2MmFlYy1lYmMxLTExZWQtODI3Mi0yNzgzNzcxZjllZTUiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi92cG5qYW50aXQiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAic29mdDk4LmlyIiwNCiAgImFscG4iOiAiaDIsaHR0cC8xLjEiLA0KICAiZnAiOiAiY2hyb21lIg0KfQ%3D%3D%7Cvmess%3A%2F%2Few0KICAidiI6ICIyIiwNCiAgInBzIjogIjIzMDUwOGJ1bGczIiwNCiAgImFkZCI6ICIxOTUuMTIzLjIyOC4xOCIsDQogICJwb3J0IjogIjEwMDAwIiwNCiAgImlkIjogImVjYzY5YTlhLWVkY2ItMTFlZC04YmIwLWJmMzk1MWZlMjRlNyIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL3ZwbmphbnRpdCIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ%3D%3D%7Cvmess%3A%2F%2Few0KICAidiI6ICIyIiwNCiAgInBzIjogIjIzMDUwNGh1bjEiLA0KICAiYWRkIjogIjUuMTgxLjc3LjI0MCIsDQogICJwb3J0IjogIjEwMDAwIiwNCiAgImlkIjogImVjYTg0ZDcwLWVhOTYtMTFlZC04ZDNkLWUzZjRjZWJiZjhhZCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL3ZwbmphbnRpdCIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ%3D%3D%7Cvmess%3A%2F%2Few0KICAidiI6ICIyIiwNCiAgInBzIjogIjIzMDUwOG5ldGgyIiwNCiAgImFkZCI6ICIxOTUuMTIzLjIxOS43MSIsDQogICJwb3J0IjogIjEwMDAxIiwNCiAgImlkIjogIjI3OWQ5ZjQ4LWVkNTMtMTFlZC1iZWU3LWYzODYzNmFjMzNhYyIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL3ZwbmphbnRpdCIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJzb2Z0OTguaXIiLA0KICAiYWxwbiI6ICJoMixodHRwLzEuMSIsDQogICJmcCI6ICJjaHJvbWUiDQp9%7Cvmess%3A%2F%2Few0KICAidiI6ICIyIiwNCiAgInBzIjogIjIzMDUwOHBoaSIsDQogICJhZGQiOiAiNDkuMTU3LjI4LjI0NyIsDQogICJwb3J0IjogIjEwMDAxIiwNCiAgImlkIjogImEyODVkZGIwLWVkY2ItMTFlZC1hN2Q5LWYzYjdmNGRiNTc3ZCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL3ZwbmphbnRpdCIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJzb2Z0OTguaXIiLA0KICAiYWxwbiI6ICJoMixodHRwLzEuMSIsDQogICJmcCI6ICJjaHJvbWUiDQp9%7Cvmess%3A%2F%2Few0KICAidiI6ICIyIiwNCiAgInBzIjogIjIzMDUwOHBoaSIsDQogICJhZGQiOiAiNDkuMTU3LjI4LjI0NyIsDQogICJwb3J0IjogIjEwMDAwIiwNCiAgImlkIjogImEyODVkZGIwLWVkY2ItMTFlZC1hN2Q5LWYzYjdmNGRiNTc3ZCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL3ZwbmphbnRpdCIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ%3D%3D%7Cvmess%3A%2F%2Few0KICAidiI6ICIyIiwNCiAgInBzIjogIjIzMDUwMWJ1bGczIiwNCiAgImFkZCI6ICIxOTUuMTIzLjIyOC4xOCIsDQogICJwb3J0IjogIjEwMDAwIiwNCiAgImlkIjogIjNmYzcwZWYyLWU4NTItMTFlZC05ZGEzLTMzODBiZjZmMjE3MiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL3ZwbmphbnRpdCIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ%3D%3D%7Cvmess%3A%2F%2Few0KICAidiI6ICIyIiwNCiAgInBzIjogIjIzMDUxMHNpbmcxMiIsDQogICJhZGQiOiAiNTEuNzkuMTU4LjExNiIsDQogICJwb3J0IjogIjEwMDAxIiwNCiAgImlkIjogImE5YTY0MTJjLWVlZTYtMTFlZC1iODExLTMzNTkyNjk4Zjc3MSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL3ZwbmphbnRpdCIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJzb2Z0OTguaXIiLA0KICAiYWxwbiI6ICJoMixodHRwLzEuMSIsDQogICJmcCI6ICJjaHJvbWUiDQp9%7Cvmess%3A%2F%2Few0KICAidiI6ICIyIiwNCiAgInBzIjogIjIzMDUxMHNpbmcxMiIsDQogICJhZGQiOiAiNTEuNzkuMTU4LjExNiIsDQogICJwb3J0IjogIjEwMDAwIiwNCiAgImlkIjogImE5YTY0MTJjLWVlZTYtMTFlZC1iODExLTMzNTkyNjk4Zjc3MSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL3ZwbmphbnRpdCIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ%3D%3D%7C&emoji=false&list=false&udp=true&tfo=false&scv=true&fdn=false&sort=false
+port: 7890
+socks-port: 7891
+redir-port: 7892
+mixed-port: 7893
+tproxy-port: 7895
+ipv6: false
+mode: rule
+log-level: silent
+allow-lan: true
+external-controller: 0.0.0.0:9090
+secret: ""
+bind-address: "*"
+unified-delay: true
+profile:
+  store-selected: true
+  store-fake-ip: true
+dns:
+  enable: true
+  ipv6: false
+  use-host: true
+  enhanced-mode: fake-ip
+  listen: 0.0.0.0:7874
+  nameserver:
+    - 8.8.8.8
+    - 1.0.0.1
+    - https://dns.google/dns-query
+  fallback:
+    - 1.1.1.1
+    - 8.8.4.4
+    - https://cloudflare-dns.com/dns-query
+    - 112.215.203.254
+  default-nameserver:
+    - 8.8.8.8
+    - 1.1.1.1
+    - 112.215.203.254
+  fake-ip-range: 198.18.0.1/16
+  fake-ip-filter:
+    - "*.lan"
+    - "*.localdomain"
     - "*.example"
     - "*.invalid"
     - "*.localhost"
@@ -37,6 +75,406 @@ https://api.dler.io/sub?target=clash&url=vmess%3A%2F%2Few0KICAidiI6ICIyIiwNCiAgI
     - trackercdn.kugou.com
     - "*.kuwo.cn"
     - api-jooxtt.sanook.com
+    - api.joox.com
+    - joox.com
+    - y.qq.com
+    - "*.y.qq.com"
+    - streamoc.music.tc.qq.com
+    - mobileoc.music.tc.qq.com
+    - isure.stream.qqmusic.qq.com
+    - dl.stream.qqmusic.qq.com
+    - aqqmusic.tc.qq.com
+    - amobile.music.tc.qq.com
+    - "*.xiami.com"
+    - "*.music.migu.cn"
+    - music.migu.cn
+    - "*.msftconnecttest.com"
+    - "*.msftncsi.com"
+    - msftconnecttest.com
+    - msftncsi.com
+    - localhost.ptlogin2.qq.com
+    - localhost.sec.qq.com
+    - +.srv.nintendo.net
+    - +.stun.playstation.net
+    - xbox.*.microsoft.com
+    - xnotify.xboxlive.com
+    - +.battlenet.com.cn
+    - +.wotgame.cn
+    - +.wggames.cn
+    - +.wowsgame.cn
+    - +.wargaming.net
+    - proxy.golang.org
+    - stun.*.*
+    - stun.*.*.*
+    - +.stun.*.*
+    - +.stun.*.*.*
+    - +.stun.*.*.*.*
+    - heartbeat.belkin.com
+    - "*.linksys.com"
+    - "*.linksyssmartwifi.com"
+    - "*.router.asus.com"
+    - mesu.apple.com
+    - swscan.apple.com
+    - swquery.apple.com
+    - swdownload.apple.com
+    - swcdn.apple.com
+    - swdist.apple.com
+    - lens.l.google.com
+    - stun.l.google.com
+    - +.nflxvideo.net
+    - "*.square-enix.com"
+    - "*.finalfantasyxiv.com"
+    - "*.ffxiv.com"
+    - "*.mcdn.bilivideo.cn"
+    - +.media.dssott.com
+proxies:
+  - name: 20230505can2
+    server: 192.99.247.52
+    port: 10001
+    type: vmess
+    uuid: 7ab642f8-eb18-11ed-b3a3-efeaa0c7ac70
+    alterId: 0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: soft98.ir
+    network: ws
+    ws-opts:
+      path: /vpnjantit
+      headers:
+        Host: soft98.ir
+    udp: true
+  - name: 230505hung1
+    server: 5.181.77.240
+    port: 10001
+    type: vmess
+    uuid: e2a4e8f2-eb3a-11ed-8d9b-2fe632160fe5
+    alterId: 0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: soft98.ir
+    network: ws
+    ws-opts:
+      path: /vpnjantit
+      headers:
+        Host: soft98.ir
+    udp: true
+  - name: 230505uk2
+    server: 194.146.49.166
+    port: 443
+    type: vmess
+    uuid: 7df0c7f0-eb62-11ed-af63-00163e7a9696
+    alterId: 0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: soft98.ir
+    network: ws
+    ws-opts:
+      path: /vpnjantit
+      headers:
+        Host: soft98.ir
+    udp: true
+  - name: 230508bulg3
+    server: 195.123.228.18
+    port: 10001
+    type: vmess
+    uuid: ecc69a9a-edcb-11ed-8bb0-bf3951fe24e7
+    alterId: 0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: soft98.ir
+    network: ws
+    ws-opts:
+      path: /vpnjantit
+      headers:
+        Host: soft98.ir
+    udp: true
+  - name: 230418bulg1
+    server: 195.123.227.30
+    port: 10000
+    type: vmess
+    uuid: c522b43c-dde1-11ed-ad06-479a946d072b
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: ""
+    network: ws
+    ws-opts:
+      path: /vpnjantit
+      headers:
+        Host: ""
+    udp: true
+  - name: 230505uk2 2
+    server: 194.146.49.166
+    port: 10000
+    type: vmess
+    uuid: 7df0c7f0-eb62-11ed-af63-00163e7a9696
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: ""
+    network: ws
+    ws-opts:
+      path: /vpnjantit
+      headers:
+        Host: ""
+    udp: true
+  - name: 230505hung1 2
+    server: 5.181.77.240
+    port: 10000
+    type: vmess
+    uuid: e2a4e8f2-eb3a-11ed-8d9b-2fe632160fe5
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: ""
+    network: ws
+    ws-opts:
+      path: /vpnjantit
+      headers:
+        Host: ""
+    udp: true
+  - name: 230506aus1
+    server: 139.99.133.82
+    port: 10000
+    type: vmess
+    uuid: 53c62aec-ebc1-11ed-8272-2783771f9ee5
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: ""
+    network: ws
+    ws-opts:
+      path: /vpnjantit
+      headers:
+        Host: ""
+    udp: true
+  - name: 230508neth2
+    server: 195.123.219.71
+    port: 10000
+    type: vmess
+    uuid: 279d9f48-ed53-11ed-bee7-f38636ac33ac
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: ""
+    network: ws
+    ws-opts:
+      path: /vpnjantit
+      headers:
+        Host: ""
+    udp: true
+  - name: 230504hun1
+    server: 5.181.77.240
+    port: 10001
+    type: vmess
+    uuid: eca84d70-ea96-11ed-8d3d-e3f4cebbf8ad
+    alterId: 0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: soft98.ir
+    network: ws
+    ws-opts:
+      path: /vpnjantit
+      headers:
+        Host: soft98.ir
+    udp: true
+  - name: 20230505can2 2
+    server: 192.99.247.52
+    port: 10000
+    type: vmess
+    uuid: 7ab642f8-eb18-11ed-b3a3-efeaa0c7ac70
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: ""
+    network: ws
+    ws-opts:
+      path: /vpnjantit
+      headers:
+        Host: ""
+    udp: true
+  - name: 230506aus1 2
+    server: 139.99.133.82
+    port: 10001
+    type: vmess
+    uuid: 53c62aec-ebc1-11ed-8272-2783771f9ee5
+    alterId: 0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: soft98.ir
+    network: ws
+    ws-opts:
+      path: /vpnjantit
+      headers:
+        Host: soft98.ir
+    udp: true
+  - name: 230508bulg3 2
+    server: 195.123.228.18
+    port: 10000
+    type: vmess
+    uuid: ecc69a9a-edcb-11ed-8bb0-bf3951fe24e7
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: ""
+    network: ws
+    ws-opts:
+      path: /vpnjantit
+      headers:
+        Host: ""
+    udp: true
+  - name: 230504hun1 2
+    server: 5.181.77.240
+    port: 10000
+    type: vmess
+    uuid: eca84d70-ea96-11ed-8d3d-e3f4cebbf8ad
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: ""
+    network: ws
+    ws-opts:
+      path: /vpnjantit
+      headers:
+        Host: ""
+    udp: true
+  - name: 230508neth2 2
+    server: 195.123.219.71
+    port: 10001
+    type: vmess
+    uuid: 279d9f48-ed53-11ed-bee7-f38636ac33ac
+    alterId: 0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: soft98.ir
+    network: ws
+    ws-opts:
+      path: /vpnjantit
+      headers:
+        Host: soft98.ir
+    udp: true
+  - name: 230508phi
+    server: 49.157.28.247
+    port: 10001
+    type: vmess
+    uuid: a285ddb0-edcb-11ed-a7d9-f3b7f4db577d
+    alterId: 0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: soft98.ir
+    network: ws
+    ws-opts:
+      path: /vpnjantit
+      headers:
+        Host: soft98.ir
+    udp: true
+  - name: 230508phi 2
+    server: 49.157.28.247
+    port: 10000
+    type: vmess
+    uuid: a285ddb0-edcb-11ed-a7d9-f3b7f4db577d
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: ""
+    network: ws
+    ws-opts:
+      path: /vpnjantit
+      headers:
+        Host: ""
+    udp: true
+  - name: 230501bulg3
+    server: 195.123.228.18
+    port: 10000
+    type: vmess
+    uuid: 3fc70ef2-e852-11ed-9da3-3380bf6f2172
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: ""
+    network: ws
+    ws-opts:
+      path: /vpnjantit
+      headers:
+        Host: ""
+    udp: true
+  - name: 230510sing12
+    server: 51.79.158.116
+    port: 10001
+    type: vmess
+    uuid: a9a6412c-eee6-11ed-b811-33592698f771
+    alterId: 0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: soft98.ir
+    network: ws
+    ws-opts:
+      path: /vpnjantit
+      headers:
+        Host: soft98.ir
+    udp: true
+  - name: 230510sing12 2
+    server: 51.79.158.116
+    port: 10000
+    type: vmess
+    uuid: a9a6412c-eee6-11ed-b811-33592698f771
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: ""
+    network: ws
+    ws-opts:
+      path: /vpnjantit
+      headers:
+        Host: ""
+    udp: true
+proxy-groups:
+  - name: FASTSSH-SSHKIT-HOWDY
+    type: select
+    proxies:
+      - 20230505can2
+      - 230505hung1
+      - 230505uk2
+      - 230508bulg3
+      - 230418bulg1
+      - 230505uk2 2
+      - 230505hung1 2
+      - 230506aus1
+      - 230508neth2
+      - 230504hun1
+      - 20230505can2 2
+      - 230506aus1 2
+      - 230508bulg3 2
+      - 230504hun1 2
+      - 230508neth2 2
+      - 230508phi
+      - 230508phi 2
+      - 230501bulg3
+      - 230510sing12
+      - 230510sing12 2
+      - DIRECT
+rules:
+  - MATCH,FASTSSH-SSHKIT-HOWDY
     - api.joox.com
     - joox.com
     - y.qq.com
